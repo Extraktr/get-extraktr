@@ -71,13 +71,6 @@ Extraktr is available as:
 - platform/workspace
 - API-backed extraction surface
 
-Website:
-https://extraktr.com
-
-Contact:
-contact@extraktr.com | 
-extraktr.team@gmail.com
-
 ## Notes
 
 This repository is the **public developer surface** for Extraktr.
@@ -88,6 +81,7 @@ It does **not** contain the full private product source code, backend systems, o
 
 - Website: https://extraktr.com
 - npm package: https://www.npmjs.com/package/extraktr
+- Contact: contact@extraktr.com | extraktr.team@gmail.com
 
 ## License
 
