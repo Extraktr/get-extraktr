@@ -74,6 +74,18 @@ Optional:
 
     Get-Content meeting.txt | extraktr extract --stdin --format markdown
 
+## Authentication (optional)
+
+You can provide a bearer token to associate requests with your account:
+
+    extraktr extract --file ./thread.txt --bearer YOUR_TOKEN
+
+Or via environment variable:
+
+    EXTRAKTR_BEARER=YOUR_TOKEN extraktr extract --file ./thread.txt
+
+Authenticated usage enables higher limits and future features.
+
 ## Notes
 
 - This CLI calls the live Extraktr API
