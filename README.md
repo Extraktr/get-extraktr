@@ -42,6 +42,10 @@ Verify install:
 
     extraktr --help
 
+### Run without installing
+
+    npx extraktr --help
+
 ## Quick start
 
 Run against a file:
