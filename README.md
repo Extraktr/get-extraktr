@@ -35,6 +35,13 @@ Verify install:
 
     extraktr --help
 
+## Source (CLI)
+
+The CLI package is available in this repository under `/cli`.
+
+This is the exact code shipped to npm:
+https://www.npmjs.com/package/extraktr
+
 ## Quick start
 
 Run against a file:
