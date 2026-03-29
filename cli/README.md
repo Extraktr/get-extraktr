@@ -12,6 +12,10 @@ Verify:
 
     extraktr --help
 
+### Run without installing
+
+    npx extraktr --help
+
 ## Usage
 
 ### From a file
