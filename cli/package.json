@@ -1,1 +1,17 @@
-
+{
+  "name": "extraktr",
+  "version": "1.0.1",
+  "private": false,
+  "description": "Terminal client for Extraktr — calls the same POST /api/extract contract as the web app.",
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "MIT",
+  "keywords": ["extraktr", "cli", "extraction"],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": ["index.js", "README.md"],
+  "bin": {
+    "extraktr": "./index.js"
+  }
+}
