@@ -97,6 +97,18 @@ Write JSON to a file:
 
     extraktr extract --file ./thread.txt --format json --output out.json
 
+## Authentication (optional)
+
+You can provide a bearer token to associate requests with your account:
+
+    extraktr extract --file ./thread.txt --bearer YOUR_TOKEN
+
+Or via environment variable:
+
+    EXTRAKTR_BEARER=YOUR_TOKEN extraktr extract --file ./thread.txt
+
+Authenticated usage enables higher limits and future features.
+
 ## Product
 
 Extraktr is available as:
