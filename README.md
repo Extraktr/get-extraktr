@@ -73,6 +73,9 @@ Extraktr is available as:
 
 Website:
 https://extraktr.com
+Contact:
+contact@extraktr.com
+extraktr.team@gmail.com
 
 ## Notes
 
