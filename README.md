@@ -75,7 +75,7 @@ Website:
 https://extraktr.com
 
 Contact:
-contact@extraktr.com
+contact@extraktr.com | 
 extraktr.team@gmail.com
 
 ## Notes
