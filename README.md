@@ -27,6 +27,13 @@ Extraktr is designed for:
 - developer tooling
 - fast extraction from real discussion text
 
+## Source (CLI)
+
+The CLI package is available in this repository under `/cli`.
+
+This is the exact code shipped to npm:
+https://www.npmjs.com/package/extraktr
+
 ## Install the CLI
 
     npm install -g extraktr
@@ -34,13 +41,6 @@ Extraktr is designed for:
 Verify install:
 
     extraktr --help
-
-## Source (CLI)
-
-The CLI package is available in this repository under `/cli`.
-
-This is the exact code shipped to npm:
-https://www.npmjs.com/package/extraktr
 
 ## Quick start
 
