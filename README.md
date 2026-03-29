@@ -27,6 +27,18 @@ Extraktr is designed for:
 - developer tooling
 - fast extraction from real discussion text
 
+## Try it in 10 seconds
+
+Create a file named `thread.txt` with:
+
+    Chris: Can you finish the pricing page by Friday?
+    John: Yes, I’ll handle it.
+    Team: Let’s launch next Tuesday.
+
+Run:
+
+    extraktr extract --file ./thread.txt
+
 ## Source (CLI)
 
 The CLI package is available in this repository under `/cli`.
