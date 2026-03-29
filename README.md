@@ -39,6 +39,23 @@ Run:
 
     extraktr extract --file ./thread.txt
 
+## Example output
+
+    === SUMMARY ===
+    Chris asked John to finish the pricing page by Friday. The team decided to launch next Tuesday.
+
+    === TASKS ===
+    - finish the pricing page
+
+    === DECISIONS ===
+    - launch next Tuesday
+
+    === RISKS ===
+    - billing flow may fail if Stripe webhook retries break
+
+    ---
+    Powered by Extraktr CLI → https://extraktr.com
+
 ## Source (CLI)
 
 The CLI package is available in this repository under `/cli`.
