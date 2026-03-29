@@ -2,7 +2,7 @@
 
 Terminal client for the Extraktr extraction API.
 
-Runs the same extraction engine used in the Extraktr platform and API, returning structured output from raw conversation text.
+Runs the same extraction engine used in the Extraktr platform, extension and API, returning structured output from raw conversation text.
 
 ## Install
 
