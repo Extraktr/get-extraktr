@@ -13,14 +13,6 @@ This repository is the public developer entry point for Extraktr:
 - examples and integrations
 - distribution surface
 
-Slack / Gmail / Email / Threads / CLI
-              ↓
-           Extract
-              ↓
-           Review
-              ↓
-       ClickUp / Jira
-
 ---
 
 ## What Extraktr does
