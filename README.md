@@ -13,6 +13,20 @@ This repository is the public developer entry point for Extraktr:
 - examples and integrations
 - distribution surface
 
+## How Extraktr works
+
++-------------------+      +------------------+      +------------------+      +-------------------+
+| Conversation      | ---> | Extract          | ---> | Review           | ---> | Send to execution |
+| sources           |      | structured work  |      | confirm and edit |      | systems           |
+|                   |      |                  |      |                  |      |                   |
+| - Slack           |      | - Tasks          |      | - Validate tasks |      | - ClickUp         |
+| - Gmail           |      | - Decisions      |      | - Adjust wording |      | - Jira            |
+| - CLI             |      | - Risks          |      | - Select items   |      | - API             |
+| - Raw text        |      | - Summary        |      | - Confirm output |      | - Future targets  |
++-------------------+      +------------------+      +------------------+      +-------------------+
+
+Conversation -> Structured action -> Execution
+
 ---
 
 ## What Extraktr does
