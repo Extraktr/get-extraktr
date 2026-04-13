@@ -69,6 +69,14 @@ Extraktr is not just extraction. It is execution.
 
 ---
 
+## From CLI to platform
+
+The CLI is the fastest way to extract.
+
+For full workflow:
+- review results in the web workspace
+- send tasks directly to ClickUp or Jira
+
 ## Try it in 10 seconds
 
 Create a file named `thread.txt` with:
