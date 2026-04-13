@@ -52,6 +52,21 @@ Then sent directly into:
 
 No rewriting. No copy paste. No missed work.
 
+## Start here
+
+If you are new to Extraktr:
+
+1. Understand the workflow  
+   → see WORKFLOW.md
+
+2. See how it connects to your tools  
+   → see INTEGRATIONS.md
+
+3. Try it locally  
+   → use the CLI below
+
+Extraktr is not just extraction. It is execution.
+
 ---
 
 ## Try it in 10 seconds
